@@ -31,7 +31,7 @@ namespace _20220417_MagazzinoProdottiCinesi
                 Console.WriteLine("B) Inserire un prodotto");
                 Console.WriteLine("C) Inserire uno stock prodotti");
                 Console.WriteLine("D) Eliminare un prodotto in giacenza");
-                Console.WriteLine("E) Cosa fai se sei arrabbiato?");
+                //Console.WriteLine("E) Cosa fai se sei arrabbiato?");
                 Console.WriteLine("F) Uscire");
 
                 scelta = Console.ReadLine();
